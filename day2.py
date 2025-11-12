@@ -32,3 +32,5 @@ newName = name1.strip("- ")
 finalName = newName.replace(" ___","")
 final_Name = finalName.replace("123 ","")
 print(final_Name)
+
+#checking
